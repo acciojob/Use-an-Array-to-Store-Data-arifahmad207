@@ -1,2 +1,1 @@
-yourArray = ["arif", 9, true, "abdul", "harlakhi"]
-
+yourArray = ['one', 2, 'three', true, false, undefined, null];
